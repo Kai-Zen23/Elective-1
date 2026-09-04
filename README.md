@@ -17,7 +17,7 @@
   <tr>
     <td align="center" width="250">
       <!-- Auto-generated avatar based on initials -->
-      </td><img width="954" height="960" alt="jaems" src="https://github.com/user-attachments/assets/9f423b65-2460-4340-9976-00c0907921a0" />
+      <img src="https://ui-avatars.com/api/?name=ReahLyn+Ermita&background=ffb6c1&color=fff&rounded=true&size=120" alt="ReahLyn" />
       <br /><br />
       <strong>👩‍💻 ReahLyn Ermita</strong>
       <br />
