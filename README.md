@@ -28,12 +28,12 @@
     <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JayMark+Labial&background=add8e6&color=fff&rounded=true&size=120" alt="JayMark" />
       <br /><br />
-      <strong>👨‍💻 Jay Mark Labial</strong>
+      <strong>👨‍💻 JayMark Labial</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-success?style=flat-square" alt="Role" />
       <br />
       <sub><i>"Code is poetry."</i></sub>
-
+    </td>
      <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JimFrancis+Margaja&background=98fb98&color=fff&rounded=true&size=120" alt="JimFrancis" />
       <br /><br />
@@ -86,4 +86,5 @@
 <h3 align="center">📫 Reach Out to Us!</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
