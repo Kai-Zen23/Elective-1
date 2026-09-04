@@ -19,7 +19,7 @@
       <!-- Auto-generated avatar based on initials -->
       <img src="https://ui-avatars.com/api/?name=ReahLyn+Ermita&background=ffb6c1&color=fff&rounded=true&size=120" alt="ReahLyn" />
       <br /><br />
-      <strong>👩‍💻 ReahLyn Ermita</strong>
+      <strong>👩‍💻 Reahlyn Ermita</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-Project%20Manager-blue?style=flat-square" alt="Role" />
       <br />
