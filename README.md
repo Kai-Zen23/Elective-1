@@ -33,7 +33,8 @@
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-success?style=flat-square" alt="Role" />
       <br />
       <sub><i>"Code is poetry."</i></sub>
-    </td>
+    </td><img width="954" height="960" alt="jaems" src="https://github.com/user-attachments/assets/9f423b65-2460-4340-9976-00c0907921a0" />
+
      <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JimFrancis+Margaja&background=98fb98&color=fff&rounded=true&size=120" alt="JimFrancis" />
       <br /><br />
