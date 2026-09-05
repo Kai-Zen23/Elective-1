@@ -28,7 +28,7 @@
     <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JayMark+Labial&background=add8e6&color=fff&rounded=true&size=120" alt="JayMark" />
       <br /><br />
-      <strong>👨‍💻 JayMark Labial</strong>
+      <strong>👨‍💻 Jay Mark Labial</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-success?style=flat-square" alt="Role" />
       <br />
@@ -37,7 +37,7 @@
      <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JimFrancis+Margaja&background=98fb98&color=fff&rounded=true&size=120" alt="JimFrancis" />
       <br /><br />
-      <strong>👨‍💻 JimFrancis Margaja</strong>
+      <strong>👨‍💻 Jim Francis Margaja</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-Backend%20Engineer-yellow?style=flat-square" alt="Role" />
       <br />
@@ -48,7 +48,7 @@
     <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JakeLloyd+Quejada&background=ffd700&color=fff&rounded=true&size=120" alt="JakeLloyd" />
       <br /><br />
-      <strong>👨‍💻 JakeLloyd Quejada</strong>
+      <strong>👨‍💻 Jake Lloyd Quejada</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-Frontend%20Developer-orange?style=flat-square" alt="Role" />
       <br />
@@ -57,7 +57,7 @@
     <td align="center" width="250">
       <img src="https://ui-avatars.com/api/?name=JudeAndrei+Rabaya&background=dda0dd&color=fff&rounded=true&size=120" alt="JudeAndrei" />
       <br /><br />
-      <strong>👨‍💻 JudeAndrei Rabaya</strong>
+      <strong>👨‍💻 Jude Andrei Rabaya</strong>
       <br />
       <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=flat-square" alt="Role" />
       <br />
