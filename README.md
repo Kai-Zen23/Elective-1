@@ -64,7 +64,11 @@
       <sub><i>"Designing user experiences."</i></sub>
     </td>
     <!-- Empty cell to balance the grid -->
-
+    <td align="center" width="250">
+      <br /><br />
+      <i>"Together, we achieve more!"</i>
+      <br />🚀
+    </td>
   </tr>
 </table>
 
