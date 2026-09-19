@@ -18,7 +18,7 @@
     <td align="center" width="250">
       <!-- Auto-generated avatar based on initials -->
       <img
-       src = "./image/jude.jpg/ " alt="Jude"
+       src = "./image/jude.jpg "
        alt = " Jude Andrei Rabaya"
        width = "120"
        height = "120" 
@@ -32,7 +32,13 @@
       <sub><i>"Loves organizing and coding."</i></sub>
     </td>
     <td align="center" width="250">
-      <img src="https://ui-avatars.com/api/?name=JayMark+Labial&background=add8e6&color=fff&rounded=true&size=120" alt="JayMark" />
+      <img
+       src = "./image/james.jpg "
+       alt = " Jay Mark Labial"
+       width = "120"
+       height = "120" 
+       style = " border-radius: 50%; odject-fit: cover; display: block; margin: 0 auto;" 
+       />
       <br /><br />
       <strong>👨‍💻 Jay Mark Labial</strong>
       <br />
@@ -41,7 +47,13 @@
       <sub><i>"Code is poetry."</i></sub>
     </td>
      <td align="center" width="250">
-      <img src="https://ui-avatars.com/api/?name=JimFrancis+Margaja&background=98fb98&color=fff&rounded=true&size=120" alt="JimFrancis" />
+      <img
+       src = "./image/jim.jpg "
+       alt = " Jim Francis Margaja"
+       width = "120"
+       height = "120" 
+       style = " border-radius: 50%; odject-fit: cover; display: block; margin: 0 auto;" 
+       />
       <br /><br />
       <strong>👨‍💻 Jim Francis Margaja</strong>
       <br />
@@ -52,7 +64,13 @@
   </tr>
   <tr>
     <td align="center" width="250">
-      <img src="https://ui-avatars.com/api/?name=JakeLloyd+Quejada&background=ffd700&color=fff&rounded=true&size=120" alt="JakeLloyd" />
+      <img
+       src = "./image/jake.jpg "
+       alt = " Jake Lloyd Quejada"
+       width = "120"
+       height = "120" 
+       style = " border-radius: 50%; odject-fit: cover; display: block; margin: 0 auto;" 
+       />
       <br /><br />
       <strong>👨‍💻 Jake Lloyd Quejada</strong>
       <br />
@@ -61,7 +79,13 @@
       <sub><i>"Pixel-perfect designs."</i></sub>
     </td>
     <td align="center" width="250">
-      <img src="https://ui-avatars.com/api/?name=JudeAndrei+Rabaya&background=dda0dd&color=fff&rounded=true&size=120" alt="JudeAndrei" />
+      <img
+       src = "./image/reah.jpg "
+       alt = " Reahlyn Ermita"
+       width = "120"
+       height = "120" 
+       style = " border-radius: 50%; odject-fit: cover; display: block; margin: 0 auto;" 
+       />
       <br /><br />
       <strong>👨‍💻 Reahlyn Ermita</strong>
       <br />
