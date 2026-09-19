@@ -18,7 +18,7 @@
     <td align="center" width="250">
       <!-- Auto-generated avatar based on initials -->
       <img
-       src = " " alt="ReahLyn" />
+       src = "./image/jude.jpg/ " alt="Jude" />
       <br /><br />
       <strong>👩‍💻 Jude Andrei Rabaya</strong>
       <br />
