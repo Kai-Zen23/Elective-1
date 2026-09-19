@@ -6,7 +6,7 @@
 
 <!-- The team picture you uploaded -->
 <div align="center">
-  <img src="./image/group.jpg" alt="Team Photo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); max-width: 600px;"/>
+  <img src="./image/groups.jpg" alt="Team Photo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); max-width: 500px;"/>
 </div>
 
 <br />
