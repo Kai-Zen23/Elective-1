@@ -17,7 +17,8 @@
   <tr>
     <td align="center" width="250">
       <!-- Auto-generated avatar based on initials -->
-      <img src="https://ui-avatars.com/api/?name=ReahLyn+Ermita&background=ffb6c1&color=fff&rounded=true&size=120" alt="ReahLyn" />
+      <img
+       src = " " alt="ReahLyn" />
       <br /><br />
       <strong>👩‍💻 Jude Andrei Rabaya</strong>
       <br />
