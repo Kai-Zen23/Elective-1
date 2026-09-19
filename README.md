@@ -18,7 +18,12 @@
     <td align="center" width="250">
       <!-- Auto-generated avatar based on initials -->
       <img
-       src = "./image/jude.jpg/ " alt="Jude" />
+       src = "./image/jude.jpg/ " alt="Jude"
+       alt = " Jude Andrei Rabaya"
+       width = "120"
+       height = "120" 
+       style = " border-radius: 50%; odject-fit: cover; display: block; margin: 0 auto;" 
+       />
       <br /><br />
       <strong>👩‍💻 Jude Andrei Rabaya</strong>
       <br />
