@@ -6,7 +6,7 @@
 
 <!-- The team picture you uploaded -->
 <div align="center">
-  <img src="C:/Users/James/.gemini/antigravity/brain/072fda95-f06c-4da8-ba27-98e3d7e913ff/.user_uploaded/media_1788535676563.png" alt="Team Photo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); max-width: 600px;"/>
+  <img src="./image/group.jpg" alt="Team Photo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); max-width: 600px;"/>
 </div>
 
 <br />
