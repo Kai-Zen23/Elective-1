@@ -66,7 +66,7 @@
     <!-- Empty cell to balance the grid -->
     <td align="center" width="250">
       <br /><br />
-      <i>"Together, we achieve more!"</i>
+      <i>"Together, we achieve more! charott"</i>
       <br />🚀
     </td>
   </tr>
